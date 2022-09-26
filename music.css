@@ -1,0 +1,24 @@
+body {
+    font-family: 'Amatic SC', cursive;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+nav, a, .navbar-brand {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+#music-ramblings {
+    font-size: 28px;
+    color:darkorange;
+    word-wrap: normal;
+    margin: 0px;
+}
+
+mark {
+    background-color: darkorange;
+}

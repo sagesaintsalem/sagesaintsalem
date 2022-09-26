@@ -1,0 +1,25 @@
+body {
+    font-family: 'Amatic SC', cursive;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+nav, a, .navbar-brand {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+#witches {
+    
+    height: 50%;
+    width: 50%;
+    margin-top: 20px;
+}
+
+#shakespeare {
+    font-size: 32px;
+
+}
